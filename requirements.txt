@@ -2,3 +2,4 @@ openai
 llama-index
 trulens-eval
 python-dotenv
+pypdf
