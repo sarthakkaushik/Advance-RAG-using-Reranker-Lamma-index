@@ -3,3 +3,9 @@ llama-index
 trulens-eval
 python-dotenv
 pypdf
+torch
+torch
+torchvision
+torchaudio
+numpy
+pandas
